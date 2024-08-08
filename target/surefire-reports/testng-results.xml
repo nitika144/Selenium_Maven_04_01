@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T11:56:52 IST" name="Suite" finished-at="2024-08-07T11:56:52 IST" duration-ms="144">
+    <groups>
+      <group name="functional">
+        <method signature="Grouping_intestNG.signupBymail()[pri:4, instance:Day_14.Grouping_intestNG@c33b74f]" name="signupBymail" class="Day_14.Grouping_intestNG"/>
+      </group> <!-- functional -->
+      <group name="regression">
+        <method signature="Grouping_intestNG.signupBymail()[pri:4, instance:Day_14.Grouping_intestNG@c33b74f]" name="signupBymail" class="Day_14.Grouping_intestNG"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="Grouping_intestNG.signupBymail()[pri:4, instance:Day_14.Grouping_intestNG@c33b74f]" name="signupBymail" class="Day_14.Grouping_intestNG"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-08-07T11:56:52 IST" name="Test" finished-at="2024-08-07T11:56:52 IST" duration-ms="144">
+      <class name="Day_14.Grouping_intestNG">
+        <test-method signature="signupBymail()[pri:4, instance:Day_14.Grouping_intestNG@c33b74f]" started-at="2024-08-07T11:56:52 IST" name="signupBymail" finished-at="2024-08-07T11:56:52 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupBymail -->
+      </class> <!-- Day_14.Grouping_intestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-08-07T11:56:52 IST" name="Suite (0)" finished-at="2024-08-07T11:57:09 IST" duration-ms="16657">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T11:56:52 IST" name="Test" finished-at="2024-08-07T11:57:09 IST" duration-ms="16657">
+      <class name="Day_14.first_test1">
+        <test-method signature="tearUp()[pri:1, instance:Day_14.first_test1@708400f6]" started-at="2024-08-07T11:56:52 IST" name="tearUp" finished-at="2024-08-07T11:56:57 IST" duration-ms="4805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="Logo()[pri:2, instance:Day_14.first_test1@708400f6]" started-at="2024-08-07T11:56:57 IST" name="Logo" finished-at="2024-08-07T11:56:58 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logo -->
+        <test-method signature="Login()[pri:3, instance:Day_14.first_test1@708400f6]" started-at="2024-08-07T11:56:58 IST" name="Login" finished-at="2024-08-07T11:57:08 IST" duration-ms="10802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="teaeDown()[pri:4, instance:Day_14.first_test1@708400f6]" started-at="2024-08-07T11:57:08 IST" name="teaeDown" finished-at="2024-08-07T11:57:09 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teaeDown -->
+        <test-method is-config="true" signature="at()[pri:0, instance:Day_14.first_test1@708400f6]" started-at="2024-08-07T11:57:09 IST" name="at" finished-at="2024-08-07T11:57:09 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:Day_14.first_test1@708400f6]" started-at="2024-08-07T11:57:09 IST" name="as" finished-at="2024-08-07T11:57:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- Day_14.first_test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
